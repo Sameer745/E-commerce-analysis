@@ -20,13 +20,13 @@ Power Query Editor – Data cleaning & transformation
 
 ⚙️ Steps Performed
 1. Data Collection
-Imported ecommerce dataset from CSV files into Power BI
+-Imported ecommerce dataset from CSV files into Power BI
 2. Data Cleaning (Power Query)
-Removed null/duplicate values
+-Removed null/duplicate values
 Changed data types
 Renamed columns for better understanding
 3. Data Modeling
-Established relationships between tables (if multiple datasets used)
+-Established relationships between tables (if multiple datasets used)
 4. DAX Measures Created
 
 Examples:
