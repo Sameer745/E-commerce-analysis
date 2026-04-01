@@ -30,13 +30,13 @@ Renamed columns for better understanding
 -Established relationships between tables (if multiple datasets used)
 4. DAX Measures Created
 
-Examples:
-
-Total Sales   
-Total Orders   
-Average Order Value   
-Revenue per Customer   
-Profit (if applicable)   
+  Examples:
+  
+  Total Sales   
+  Total Orders   
+  Average Order Value   
+  Revenue per Customer   
+  Profit (if applicable)   
 
 5. Dashboard Creation   
 Built interactive visuals using:   
