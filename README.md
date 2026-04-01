@@ -1,5 +1,4 @@
 
-![Uploading ecommercelogo.webp…]()
 
 # 📊 Ecommerce Data Analysis Dashboard (Power BI)
 
