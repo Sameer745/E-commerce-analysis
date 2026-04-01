@@ -6,20 +6,20 @@ This project focuses on analyzing ecommerce data using Power BI by importing raw
 
 The goal of this project is to understand sales performance, customer behavior, and product trends through an interactive dashboard.  
 
-🎯 Objectives
+## 🎯 Objectives
 Analyze total sales and revenue trends  
 Identify top-performing products  
 Understand customer purchasing patterns   
 Create calculated measures using DAX   
 Build an interactive and dynamic dashboard   
 
-🛠️ Tools & Technologies Used    
+## 🛠️ Tools & Technologies Used    
 Power BI Desktop – Dashboard creation & visualization  
 CSV Files – Data source   
 DAX (Data Analysis Expressions) – Measures & calculations   
 Power Query Editor – Data cleaning & transformation   
 
-⚙️ Steps Performed
+## ⚙️ Steps Performed
 1. Data Collection
 -Imported ecommerce dataset from CSV files into Power BI
 2. Data Cleaning (Power Query)
