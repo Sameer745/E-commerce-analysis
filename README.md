@@ -32,16 +32,16 @@ Renamed columns for better understanding
 
 Examples:
 
-Total Sales
-Total Orders
-Average Order Value
-Revenue per Customer
-Profit (if applicable)
+Total Sales   
+Total Orders   
+Average Order Value   
+Revenue per Customer   
+Profit (if applicable)   
 
-5. Dashboard Creation
-Built interactive visuals using:
-Bar charts
-Line charts
-Pie charts
-Cards (KPIs)
-Filters & slicers
+5. Dashboard Creation   
+Built interactive visuals using:   
+Bar charts   
+Line charts   
+Pie charts   
+Cards (KPIs)   
+Filters & slicers    
