@@ -45,3 +45,10 @@ Line charts
 Pie charts   
 Cards (KPIs)   
 Filters & slicers    
+
+## 📌 Key Insights
+Identified top-selling products driving revenue   
+Observed seasonal trends in sales   
+Analyzed customer purchase behavior   
+Highlighted key business KPIs    
+
