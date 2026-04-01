@@ -1,5 +1,5 @@
 
-![Uploading ecommercelogo.webp…]()
+![Alt Text]("C:\Users\Sameer Ahmed\Downloads\ecommercelogo.webp")
 
 # 📊 Ecommerce Data Analysis Dashboard (Power BI)
 
